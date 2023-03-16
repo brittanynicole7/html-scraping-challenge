@@ -1,4 +1,4 @@
-# Html Scraping Challenge
+# HTML Scraping Challenge
 
 # Project Description 
 
